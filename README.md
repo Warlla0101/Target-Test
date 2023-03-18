@@ -1,6 +1,6 @@
 # Target-Test
 
-repositório criado para as respostas do teste da target, as questões que envolviam código, os códigos foram colocados como arquivos aqui no github, e as respostas que não eram código, segue abaixo aqui no readMe:
+repositório criado para as respostas do teste da target, as questões que envolviam código, os códigos foram colocados como arquivos aqui no github, na linguagem Python e as respostas que não eram código, segue abaixo aqui no readMe:
 
 ## questão 1:
 resposta: a soma é 78.
